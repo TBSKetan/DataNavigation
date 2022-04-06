@@ -1,0 +1,7 @@
+{
+  "name": "dataNavigation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
